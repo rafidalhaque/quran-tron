@@ -120,7 +120,7 @@
     "babel-preset-stage-0": "6.24.1",
     "babel-register": "6.26.0",
     "boiler-room-custodian": "0.4.3",
-    "chai": "3.5.0",
+    "chai": "4.3.6",
     "concurrently": "3.5.1",
     "cross-env": "7.0.3",
     "css-loader": "0.26.4",
