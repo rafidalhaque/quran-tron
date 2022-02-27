@@ -156,7 +156,7 @@
     "style-loader": "3.3.1",
     "tcomb": "3.2.29",
     "url-loader": "0.6.2",
-    "webpack": "1.15.0",
+    "webpack": "5.69.1",
     "webpack-dev-middleware": "5.3.1",
     "webpack-hot-middleware": "2.21.2",
     "webpack-merge": "1.1.2",
