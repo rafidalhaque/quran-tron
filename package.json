@@ -123,7 +123,7 @@
     "chai": "4.3.6",
     "concurrently": "3.5.1",
     "cross-env": "7.0.3",
-    "css-loader": "0.26.4",
+    "css-loader": "0.28.11",
     "devtron": "1.4.0",
     "electron": "11.5.0",
     "electron-builder": "8.7.0",
