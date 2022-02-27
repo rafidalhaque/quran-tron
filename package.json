@@ -154,7 +154,7 @@
     "sinon": "1.17.7",
     "spectron": "3.8.0",
     "style-loader": "0.13.2",
-    "tcomb": "3.2.25",
+    "tcomb": "3.2.29",
     "url-loader": "0.5.9",
     "webpack": "1.15.0",
     "webpack-dev-middleware": "1.12.2",
