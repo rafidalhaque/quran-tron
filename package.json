@@ -104,7 +104,7 @@
   "homepage": "https://aysaar.github.io/quran",
   "_homepage_linux": "Muncul di tombol website",
   "devDependencies": {
-    "asar": "0.14.6",
+    "asar": "3.1.0",
     "babel-core": "6.26.3",
     "babel-eslint": "7.2.3",
     "babel-loader": "6.4.1",
