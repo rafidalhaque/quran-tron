@@ -151,7 +151,7 @@
     "mocha": "3.5.3",
     "react-addons-test-utils": "15.6.2",
     "redux-logger": "2.10.2",
-    "sinon": "1.17.7",
+    "sinon": "13.0.1",
     "spectron": "3.8.0",
     "style-loader": "0.13.2",
     "tcomb": "3.2.29",
