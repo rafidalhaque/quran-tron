@@ -111,7 +111,7 @@
     "babel-plugin-add-module-exports": "0.2.1",
     "babel-plugin-dev-expression": "0.2.3",
     "babel-plugin-tcomb": "0.3.26",
-    "babel-plugin-webpack-loaders": "0.8.0",
+    "babel-plugin-webpack-loaders": "0.9.0",
     "babel-polyfill": "6.26.0",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react": "6.24.1",
