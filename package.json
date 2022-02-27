@@ -127,7 +127,7 @@
     "devtron": "^1.4.0",
     "electron": "11.5.0",
     "electron-builder": "^8.6.0",
-    "electron-devtools-installer": "^2.0.1",
+    "electron-devtools-installer": "^2.2.4",
     "enzyme": "^2.6.0",
     "eslint": "^3.11.1",
     "eslint-config-airbnb": "^13.0.0",
