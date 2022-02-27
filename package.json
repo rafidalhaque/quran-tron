@@ -142,7 +142,7 @@
     "eslint-plugin-react": "7.29.2",
     "express": "4.17.3",
     "extract-text-webpack-plugin": "3.0.2",
-    "fbjs-scripts": "0.7.1",
+    "fbjs-scripts": "0.8.3",
     "file-loader": "6.2.0",
     "html-webpack-plugin": "2.30.1",
     "jsdom": "9.12.0",
