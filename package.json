@@ -150,7 +150,7 @@
     "minimist": "1.2.5",
     "mocha": "3.5.3",
     "react-addons-test-utils": "15.6.2",
-    "redux-logger": "2.10.2",
+    "redux-logger": "3.0.6",
     "sinon": "13.0.1",
     "spectron": "3.8.0",
     "style-loader": "3.3.1",
