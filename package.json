@@ -67,7 +67,9 @@
       "target": [
         "deb"
       ],
-      "fpm": ["--after-install=build/after-install.sh"]
+      "fpm": [
+        "--after-install=build/after-install.sh"
+      ]
     }
   },
   "directories": {
@@ -145,7 +147,7 @@
     "html-webpack-plugin": "^2.24.1",
     "jsdom": "^9.8.3",
     "json-loader": "^0.5.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.5",
     "mocha": "^3.2.0",
     "react-addons-test-utils": "^15.4.1",
     "redux-logger": "^2.7.4",
