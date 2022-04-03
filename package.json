@@ -121,7 +121,7 @@
     "babel-register": "6.26.0",
     "boiler-room-custodian": "0.6.2",
     "chai": "4.3.6",
-    "concurrently": "7.0.0",
+    "concurrently": "7.1.0",
     "cross-env": "7.0.3",
     "css-loader": "6.7.1",
     "devtron": "1.4.0",
